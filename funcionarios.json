@@ -18,5 +18,12 @@
         "nome": "Ana Maria Coelho",
         "cargo": "BackEnd",
         "imagem": "ana.jpg"
+        
+    },
+
+    {
+        "nome": "Luis Silva",
+        "cargo": "DBA",
+        "imagem": "joao.jpg"
     }
 ]
